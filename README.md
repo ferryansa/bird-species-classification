@@ -23,21 +23,6 @@ Birds play a vital role in maintaining ecosystem balance and biodiversity. Accur
 
 The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/rahmasleam/bird-speciees-dataset/data), containing labeled bird species images for training and testing.
 
-### **Table Overview**
-
-| No | Column Name       | Description                                                                 |
-|----|-------------------|-----------------------------------------------------------------------------|
-| 1  | Species           | The name of the bird species                                               |
-| 2  | Family            | The family classification of the bird                                      |
-| 3  | Order             | The order classification of the bird                                       |
-| 4  | Distribution      | Regions where the bird species is commonly found                          |
-| 5  | Habitat           | The type of environment where the bird species thrives                    |
-| 6  | Size              | Average size of the bird (in centimeters)                                  |
-| 7  | Weight            | Average weight of the bird (in grams)                                      |
-| 8  | Wing_Span         | Average wing span of the bird (in centimeters)                             |
-| 9  | Diet              | The typical diet of the bird species (e.g., Insectivore, Herbivore)        |
-| 10 | Conservation_Status| Conservation status based on global IUCN standards (e.g., Least Concern)  |
-
 ---
 
 ## **Conclusion 📊**
