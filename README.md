@@ -25,6 +25,12 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/rahmasleam/
 
 ---
 
+## **Deployment 🚀**
+
+The deployed model can be accessed at [Hugging Face Spaces](https://huggingface.co/spaces/Ferryansa/bird-species-classification).
+
+---
+
 ## **Conclusion 📊**
 
 **Model Performance**
@@ -64,6 +70,8 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/rahmasleam/
 ## **Dependencies 📚**
 
 **Libraries**: TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn
+
+---
 
 ## **Author 👨‍💻**
 Ferryansa | [ferryansa.inbox@gmail.com](mailto:ferryansa.inbox@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ferryansa) | [GitHub](https://github.com/ferryansa)
